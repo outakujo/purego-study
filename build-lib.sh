@@ -1,0 +1,1 @@
+gcc -fpic -shared liba.c -o liba.so
